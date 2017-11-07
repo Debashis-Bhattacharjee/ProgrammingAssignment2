@@ -1,4 +1,4 @@
-## This function , makeVector creates a special matrix, 
+## This function , makeCacheMatrix creates a special matrix, 
 ## which is a list containing a function to
 
 ## set the value of the matrix
