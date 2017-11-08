@@ -5,6 +5,8 @@
 ## get the value of the matrix
 ## set the value of the inverse
 ## get the value of the inverse
+## The function creates a structure which holds the matrix along with its inverse
+
 
 makeCacheMatrix <- function(x = matrix()) {
   vInverse <- NULL
